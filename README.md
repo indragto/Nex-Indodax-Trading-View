@@ -84,19 +84,16 @@ Pastikan Anda telah menginstal:
 
 ### Halaman Utama
 
-![Halaman Utama](https://via.placeholder.com/800x400?text=Screenshot+Halaman+Utama)
+![Halaman Utama](https://via.placeholder.com/800x400?text=Screenshot+Halaman+Utama](https://raw.githubusercontent.com/indragto/Nex-Indodax-Trading-View/refs/heads/main/ss/Screenshot%202024-12-11%20at%2015.31.03.png)
+![Halaman Utama 2](https://raw.githubusercontent.com/indragto/Nex-Indodax-Trading-View/refs/heads/main/ss/Screenshot%202024-12-11%20at%2015.31.35.png)
 
 ### Detail Cryptocurrency
 
-![Detail Cryptocurrency](https://via.placeholder.com/800x400?text=Screenshot+Detail+Cryptocurrency)
-
-### Grafik Analisis
-
-![Grafik Analisis](https://via.placeholder.com/800x400?text=Screenshot+Grafik+Analisis)
+![Detail Cryptocurrency](https://via.placeholder.com/800x400?text=Screenshot+Detail+Cryptocurrency](https://raw.githubusercontent.com/indragto/Nex-Indodax-Trading-View/refs/heads/main/ss/screencapture-localhost-3000-coin-btcidr-2024-12-11-15_35_29.png)
 
 ### Kalkulator Profit
 
-![Kalkulator Profit](https://via.placeholder.com/800x400?text=Screenshot+Kalkulator+Profit)
+![Kalkulator Profit](https://via.placeholder.com/800x400?text=Screenshot+Kalkulator+Profit](https://raw.githubusercontent.com/indragto/Nex-Indodax-Trading-View/refs/heads/main/ss/screencapture-localhost-3000-calculator-2024-12-11-15_38_56.png)
 
 ## Kontribusi
 
