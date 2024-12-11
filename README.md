@@ -92,6 +92,10 @@ Pastikan Anda telah menginstal:
 
 ![Detail Cryptocurrency](https://raw.githubusercontent.com/indragto/Nex-Indodax-Trading-View/refs/heads/main/ss/screencapture-localhost-3000-coin-btcidr-2024-12-11-15_35_29.png)
 
+### Trade
+
+![Trade](https://raw.githubusercontent.com/indragto/Nex-Indodax-Trading-View/refs/heads/main/ss/screencapture-localhost-3000-trade-2024-12-11-15_37_55.png)
+
 ### Kalkulator Profit
 
 ![Kalkulator Profit](https://raw.githubusercontent.com/indragto/Nex-Indodax-Trading-View/refs/heads/main/ss/screencapture-localhost-3000-calculator-2024-12-11-15_38_56.png)
