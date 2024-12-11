@@ -113,8 +113,3 @@ Kontribusi sangat dihargai! Silakan fork repositori ini dan buat pull request de
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
-## Kontak
-
-Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi kami di [email@example.com](mailto:email@example.com).
-
